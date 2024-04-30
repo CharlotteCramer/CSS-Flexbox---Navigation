@@ -58,7 +58,6 @@ nav {
   margin-right: auto;
 }
 .nav-with-name ul li:nth-child(5) .btn {
-  font-size: 32px;
   padding: 19px 41px;
   color: white;
   text-decoration: none;
@@ -71,23 +70,22 @@ nav {
   color: #fcfafc;
 }
 .btn {
-  font-size: 32px;
   padding: 19px 41px;
-  color: rgb(9, 9, 9);
+  color: rgb(251, 249, 249);
   text-decoration: none;
   display: inline-block;
 }
 .btn-square {
-  background-color: #d82bfc;
+  background-color: #2063f3;
 }
 .btn-square:hover {
-  background-color: #82029a;
+  background-color: #b3c8ed;
 }
 .nav-with-name ul li:nth-child(6) {
   color: #faf6f6;
 }
 .nav-with-name ul li:nth-child(6) :hover {
-  color: #070707;
+  color: #fffdfd;
 }
 
 .nav-with-blog {
@@ -104,5 +102,8 @@ nav {
   padding-right: 140px;
 }
 .nav-with-blog ul li:first-child {
+  margin-right: auto;
+}
+.nav-with-blog ul li:nth-child(4) {
   margin-right: auto;
 }
